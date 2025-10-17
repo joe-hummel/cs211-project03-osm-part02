@@ -1,0 +1,25 @@
+{
+	"bustime-response": {
+		"prd": [
+			{
+				"tmstmp": "20231130 15:31",
+				"typ": "A",
+				"stpnm": "Chicago & Sheridan",
+				"stpid": "17302",
+				"vid": "1893",
+				"dstp": 13187,
+				"rt": "201",
+				"rtdd": "201",
+				"rtdir": "Eastbound",
+				"des": "Howard Station",
+				"prdtm": "20231130 15:42",
+				"tablockid": "97 -551",
+				"tatripid": "1063440",
+				"origtatripno": "248554706",
+				"dly": false,
+				"prdctdn": "10",
+				"zone": ""
+			}
+		]
+	}
+}

@@ -1,0 +1,12 @@
+15924,201,Central & Sheridan,Eastbound,SW corner,42.06401,-87.67725
+17301,201,Sheridan & Lincoln,Southbound,SW corner,42.06144,-87.67730
+18356,201,Sheridan & Lincoln,Northbound,NE corner,42.06178,-87.67696
+18357,201,Sheridan & Haven,Southbound,NW corner,42.05807,-87.67708
+18355,201,Sheridan & Haven,Northbound,East side,42.05756,-87.67699
+17295,201,Sheridan & Foster,Southbound,SW corner,42.05388,-87.67737
+17296,201,Sheridan & Foster,Northbound,East side,42.05419,-87.67710
+18354,201,Sheridan & Emerson,Northbound,East side,42.05228,-87.67712
+17302,201,Chicago & Sheridan,Southbound,SW corner,42.05086,-87.67756
+15318,201,Chicago & Clark,Southbound,NW corner,42.04969,-87.67816
+14403,201,Chicago Ave & Church,Southbound,NW corner,42.04797,-87.67897
+14692,201,Chicago Ave & Davis,Southbound,NW corner,42.04643,-87.67970

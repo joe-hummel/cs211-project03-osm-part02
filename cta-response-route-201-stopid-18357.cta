@@ -1,0 +1,25 @@
+{
+	"bustime-response": {
+		"prd": [
+			{
+				"tmstmp": "20231130 14:01",
+				"typ": "A",
+				"stpnm": "Sheridan & Haven",
+				"stpid": "18357",
+				"vid": "1808",
+				"dstp": 5757,
+				"rt": "201",
+				"rtdd": "201",
+				"rtdir": "Eastbound",
+				"des": "Howard Station",
+				"prdtm": "20231130 14:06",
+				"tablockid": "201 -503",
+				"tatripid": "1063434",
+				"origtatripno": "248554699",
+				"dly": false,
+				"prdctdn": "5",
+				"zone": ""
+			}
+		]
+	}
+}

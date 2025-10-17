@@ -1,0 +1,63 @@
+{
+	"bustime-response": {
+		"prd": [
+			{
+				"tmstmp": "20231130 15:32",
+				"typ": "A",
+				"stpnm": "Sheridan & Foster",
+				"stpid": "17295",
+				"vid": "1890",
+				"dstp": 10663,
+				"rt": "201",
+				"rtdd": "201",
+				"rtdir": "Eastbound",
+				"des": "Howard Station",
+				"prdtm": "20231130 15:40",
+				"tablockid": "97 -551",
+				"tatripid": "1063440",
+				"origtatripno": "248554706",
+				"dly": false,
+				"prdctdn": "8",
+				"zone": ""
+			},
+			{
+				"tmstmp": "20231130 15:32",
+				"typ": "A",
+				"stpnm": "Sheridan & Foster",
+				"stpid": "17295",
+				"vid": "1922",
+				"dstp": 10663,
+				"rt": "201",
+				"rtdd": "201",
+				"rtdir": "Eastbound",
+				"des": "Howard Station",
+				"prdtm": "20231130 15:40",
+				"tablockid": "97 -551",
+				"tatripid": "1063440",
+				"origtatripno": "248554706",
+				"dly": false,
+				"prdctdn": "9",
+				"zone": ""
+			},
+			{
+				"tmstmp": "20231130 15:32",
+				"typ": "A",
+				"stpnm": "Sheridan & Foster",
+				"stpid": "17295",
+				"vid": "17",
+				"dstp": 10663,
+				"rt": "201",
+				"rtdd": "201",
+				"rtdir": "Eastbound",
+				"des": "Howard Station",
+				"prdtm": "20231130 15:40",
+				"tablockid": "97 -551",
+				"tatripid": "1063440",
+				"origtatripno": "248554706",
+				"dly": false,
+				"prdctdn": "11",
+				"zone": ""
+			}
+		]
+	}
+}

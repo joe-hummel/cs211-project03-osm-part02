@@ -1,0 +1,25 @@
+{
+	"bustime-response": {
+		"prd": [
+			{
+				"tmstmp": "20231130 15:32",
+				"typ": "A",
+				"stpnm": "Sheridan & Foster",
+				"stpid": "17296",
+				"vid": "1818",
+				"dstp": 16207,
+				"rt": "201",
+				"rtdd": "201",
+				"rtdir": "Westbound",
+				"des": "Old Orchard",
+				"prdtm": "20231130 15:51",
+				"tablockid": "97 -506",
+				"tatripid": "1063438",
+				"origtatripno": "248554058",
+				"dly": false,
+				"prdctdn": "18",
+				"zone": ""
+			}
+		]
+	}
+}

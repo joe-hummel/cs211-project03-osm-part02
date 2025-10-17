@@ -1,0 +1,44 @@
+{
+	"bustime-response": {
+		"prd": [
+			{
+				"tmstmp": "20231130 13:58",
+				"typ": "A",
+				"stpnm": "Sheridan & Haven",
+				"stpid": "18355",
+				"vid": "1177",
+				"dstp": 20284,
+				"rt": "201",
+				"rtdd": "201",
+				"rtdir": "Westbound",
+				"des": "Old Orchard",
+				"prdtm": "20231130 14:23",
+				"tablockid": "201 -502",
+				"tatripid": "1063432",
+				"origtatripno": "248554044",
+				"dly": false,
+				"prdctdn": "22",
+				"zone": ""
+			},
+			{
+				"tmstmp": "20231130 14:00",
+				"typ": "A",
+				"stpnm": "Sheridan & Haven",
+				"stpid": "18355",
+				"vid": "1932",
+				"dstp": 20503,
+				"rt": "201",
+				"rtdd": "201",
+				"rtdir": "Westbound",
+				"des": "Old Orchard",
+				"prdtm": "20231130 14:26",
+				"tablockid": "201 -502",
+				"tatripid": "1063432",
+				"origtatripno": "248554044",
+				"dly": false,
+				"prdctdn": "24",
+				"zone": ""
+			}
+		]
+	}
+}
